@@ -1,0 +1,49 @@
+Sentence,ItemType,GramGender,Item,QuestionCode
+C’est une star de la course à pied.,experimental,feminine,star/as,star
+C’est un as de la course à pied.,experimental,masculine,star/as,as
+Cette personne ne se souvient même plus de son nom.,experimental,feminine,personne/individu,personne
+Cet individu ne se souvient même plus de son nom.,experimental,masculine,personne/individu,individu
+La dépouille fut transportée dans un cercueil.,experimental,feminine,dépouille/cadavre,depouille
+Le cadavre fut transporté dans un cercueil.,experimental,masculine,dépouille/cadavre,cadavre
+"Avec ses manières, c'est une véritable bête de foire.",experimental,feminine,bête/phénomène,bete
+"Avec ses manières, c'est un véritable phénomène de foire",experimental,masculine,bête/phénomène,phenomene
+Une personnalité de premier plan du gouvernement s'est exprimée à la radio.,experimental,feminine,personnalité/personnage,personnalite
+Un personnage de premier plan du gouvernement s'est exprimé à la radio.,experimental,masculine,personnalité/personnage,personnage
+Une vedette de la chanson a été invitée pour présider le jury.,experimental,feminine,vedette/talent,vedette
+Un talent de la chanson a été invité pour présider le jury.,experimental,masculine,vedette/talent,talent
+C'est une célébrité du cinéma français.,experimental,feminine,célébrité/monument,celebrite
+C'est un monument du cinéma français.,experimental,masculine,célébrité/monument,monument
+La tête du groupe a accepté une interview à la télé.,experimental,feminine,tête/cerveau,tete
+Le cerveau du groupe a accepté une interview à la télé.,experimental,masculine,tête/cerveau,cerveau
+Tu n'es qu'une fourmi.,experimental,feminine,fourmi/microbe,fourmi
+Tu n'es qu'un microbe.,experimental,masculine,fourmi/microbe,microbe
+Ma petite merveille s’est fait un bobo au genou.,experimental,feminine,merveille/trésor,merveille
+Mon petit trésor s’est fait un bobo au genou.,experimental,masculine,merveille/trésor,tresor
+Ma petite crème a fait sa rentrée scolaire aujourd'hui.,experimental,feminine,crème/ange,creme
+Mon petit ange a fait sa rentrée scolaire aujourd'hui.,experimental,masculine,crème/ange,ange
+Cette sangsue m'a volé toutes mes économies.,experimental,feminine,sangsue/vautour,sangsue
+Ce vautour m'a volé toutes mes économies.,experimental,masculine,sangsue/vautour,vautour
+Une sommité du domaine a reçu le prix.,experimental,feminine,sommité/génie,sommite
+Un génie du domaine a reçu le prix.,experimental,masculine,sommité/génie,genie
+Cette fripouille a encore réussi à tromper tout le monde.,experimental,feminine,fripouille/charlatan,fripouille
+Ce charlatan a encore réussi à tromper tout le monde.,experimental,masculine,fripouille/charlatan,charlatan
+Claude m’a passé un coup de fil ce matin.,filler,,Claude,claude
+Dominique a une fracture au poignet.,filler,,Dominique,dominique
+Louison lisait un roman dans le train.,filler,,Louison,louison
+Lou se rend au commissariat pour un témoignage.,filler,,Lou,lou
+Camille ira chercher les enfants à l’école.,filler,,Camille,camille
+Sacha revient de la bibliothèque. ,filler,,Sacha,sacha
+Alex part en randonnée tout le week-end.,filler,,Alex,alex
+"Charlie, tu te trompes toujours. ",filler,,Charlie,charlie
+Dany vient d’acheter une maison.,filler,,Dany,dany
+"Sam, essaie de te concentrer.",filler,,Sam,sam
+Mallory n’assistera pas à l’enterrement de son grand-oncle.,filler,,Mallory,mallory
+Andréa va bientôt aller voir son médecin.,filler,,Andréa,andrea
+Kevin a sans doute dû partir à la plage.,filler,,Kevin,kevin
+Emma se promène en ville.,filler,,Emma,emma
+Constance a raté le bus.,filler,,Constance,constance
+Augustin a oublié ses clefs sur le bureau à la maison.,filler,,Augustin,augustin
+Raymond passera à la banque pour retirer de l’argent.,filler,,Raymond,raymond
+Paulette a fait ses courses ce matin.,filler,,Paulette,paulette
+Marie-Chantal porte des lunettes pour lire.,filler,,Marie-Chantal,mariechantal
+"Charles-Henri, n’oublie pas de fermer la porte quand tu sors.",filler,,Charles-Henri,charleshenri
